@@ -2,8 +2,11 @@
 
 **This is the Game Developed Using Html, Css & JavaScript. Used DOM properties to manipulate page Content.**    
 
-* Player Has 20 chances
-* Player Has to choose Number between 1 to 20
+* Player Has 20 chance.
+* Player Has to choose Number between 1 to 20.
+* number id hidden, player have to select number to check whether it is same or not.
+* if number is same you will be winner.
+* Highscore will be calculated based on No. of chance player took.
     
   To Play click here https://kunalkanse.github.io/Guess-the-number-in-Javascript/ 
  
