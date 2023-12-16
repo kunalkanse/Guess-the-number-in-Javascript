@@ -1,6 +1,9 @@
 # Guess the number
 
 **This is the Game Developed Using Html, Css & JavaScript. Used DOM properties to manipulate page Content.**    
+
+* Player Has 20 chances
+* Player Has to choose Number between 1 to 20
     
   To Play click here https://kunalkanse.github.io/Guess-the-number-in-Javascript/ 
  
